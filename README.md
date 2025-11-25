@@ -87,20 +87,14 @@ Implemented neural network architectures for complex classification tasks. Explo
 
 ---
 
-## 📈 GitHub Stats
-
-![Niat's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiatKahsay&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiatKahsay&layout=compact&theme=radical)](https://github.com/NiatKahsay)
-
----
 
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on data science projects or discussing opportunities in the field. Feel free to reach out!
 
-[![LinkedIn](https://www.linkedin.com/in/niat-kahsay-8149a71aa/)
-[![Email](niatttesfay@gmail)
+📧 **Email:** [niatttesfay@gmail.com](mailto:niatttesfay@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/niat-kahsay-8149a71aa](https://www.linkedin.com/in/niat-kahsay-8149a71aa/)  
+🎓 **University Email:** [nkahsay@sandiego.edu](mailto:nkahsay@sandiego.edu)
 
 ---
 
