@@ -25,16 +25,13 @@ I have completed **multiple end-to-end data science projects** that span classif
 - **ADS 504** - Machine Learning and Deep Learning
 - **ADS 505** - Applied Data Science for Business
 - **ADS 506** - Applied Time Series Analysis
-
-### In Progress (Spring 2026)
 - **ADS 507** - Practical Data Engineering
 - **ADS 508** - Data Science with Cloud Computing
 
-### Upcoming (Summer 2026)
+### In Progress (Spring 2026)
 - **ADS 509** - Applied Text Mining
 - **ADS 599** - Capstone Project
 
----
 
 ## 🛠️ Technical Skills
 
