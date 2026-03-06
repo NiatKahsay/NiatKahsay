@@ -1,115 +1,86 @@
-# Hi there, I'm Niat Kahsay! 👋
+# Hi, I'm Niat Kahsay 👋
 
-## 🎓 About Me
+**Data Science M.S. Candidate · University of San Diego '26**
 
-I'm a **Data Science Master's student** at the **University of San Diego**, graduating in **2026**. I'm passionate about leveraging data to solve real-world problems and building impactful machine learning solutions.
+I build end-to-end machine learning solutions grounded in statistical rigor and real-world impact. My work spans predictive modeling, deep learning, time series forecasting, data engineering, and cloud-based ML deployment — always with a focus on turning messy data into clear, actionable insight.
 
-I have completed **multiple end-to-end data science projects** that span classification modeling, exploratory data analysis, statistical testing, and machine learning workflows. These projects emphasize hands-on application of **Python, R, SQL**, and key libraries and were designed to solve **real-world problems across industries**.
-
-- 🌱 Currently learning: **Applied Text Mining** and **Cloud Computing for Data Science**
-- 🔭 Working on: **Data Engineering pipelines and Cloud-based ML deployments**
-- 💼 Seeking: **Data Science internship/full-time opportunities for 2026**
-- 📫 Reach me: **nkahsay@sandiego.edu** | (https://www.linkedin.com/in/niat-tesfay-8149a71aa/)
-- 📍 Location: **San Francisco, CA**
+📍 San Francisco, CA &nbsp;|&nbsp; 📧 [nkahsay@sandiego.edu](mailto:nkahsay@sandiego.edu) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/niat-tesfay-8149a71aa/) &nbsp;|&nbsp; 💼 Seeking Data Science roles for 2026
 
 ---
 
-## 📚 Coursework
+## 🛠 Tech Stack
 
-### Completed
-- **ADS 500A** - Probability and Statistics for Data Science
-- **ADS 500B** - Data Science Programming
-- **ADS 501** - Foundations of Data Science and Data Ethics
-- **ADS 502** - Applied Data Mining
-- **ADS 503** - Applied Predictive Modeling
-- **ADS 504** - Machine Learning and Deep Learning
-- **ADS 505** - Applied Data Science for Business
-- **ADS 506** - Applied Time Series Analysis
-- **ADS 507** - Practical Data Engineering
-- **ADS 508** - Data Science with Cloud Computing
+**Languages**
 
-### In Progress (Spring 2026)
-- **ADS 509** - Applied Text Mining
-- **ADS 599** - Capstone Project
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+**Libraries & Frameworks**
 
-## 🛠️ Technical Skills
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**Languages:** Python, R, SQL
+**Tools & Platforms**
 
-**Libraries & Frameworks:** pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, ggplot2
-
-**Tools:** Jupyter, Git, Docker, AWS, Google Cloud Platform, Tableau
-
-**Specializations:** Machine Learning, Deep Learning, Time Series Analysis, Predictive Modeling, Data Mining, Statistical Testing
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ---
 
-## 📊 Featured Projects
+## 📂 Featured Projects
 
-### [SF Crime Prediction](https://github.com/NiatKahsay/SF_Crime_Prediction)
-End-to-end classification project analyzing San Francisco crime data. Built predictive models to forecast crime patterns and identify hotspots using feature engineering, ensemble methods, and model evaluation techniques.
-- **Tech Stack:** Python, scikit-learn, pandas, Matplotlib
-- **Key Skills:** Classification, EDA, Feature Engineering
+### 🔹 [SF Crime Prediction](https://github.com/NiatKahsay/SF_Crime_Prediction)
+End-to-end classification project analyzing San Francisco crime data. Built predictive models to forecast crime patterns and identify hotspots using feature engineering, ensemble methods, and thorough model evaluation.
 
-### [Applied Time Series Analysis](https://github.com/NiatKahsay/Applied-Time-Series-Analysis--ADS-506-)
-Comprehensive time series forecasting project implementing ARIMA, SARIMA, and advanced statistical models on real-world datasets. Includes stationarity testing, autocorrelation analysis, and model diagnostics.
-- **Tech Stack:** R, Python, statsmodels
-- **Key Skills:** Time Series Forecasting, Statistical Testing
-
-### [ADS 507 Project - Data Engineering Pipeline](https://github.com/NiatKahsay/ADS-507-Project)
-Built scalable ETL pipeline for processing large datasets. Implemented data warehousing solutions and automated workflows for data ingestion and transformation.
-- **Tech Stack:** Python, SQL, Apache Airflow
-- **Key Skills:** ETL, Data Warehousing, Pipeline Automation
-
-### [ADS 508 - Cloud Computing Project](https://github.com/NiatKahsay/ads-508-team)
-Deployed machine learning models on cloud infrastructure with automated CI/CD pipelines. Focused on scalability and production-ready ML systems.
-- **Tech Stack:** AWS/GCP, Docker, Python
-- **Key Skills:** MLOps, Cloud Deployment, Containerization
-
-### [ADS 504 - Deep Learning Project](https://github.com/NiatKahsay/ADS-504--Group-Project)
-Implemented neural network architectures for complex classification tasks. Explored CNN, RNN, and transfer learning techniques.
-- **Tech Stack:** TensorFlow, Keras, Python
-- **Key Skills:** Deep Learning, Neural Networks, Model Optimization
+`Python` · `scikit-learn` · `pandas` · `Matplotlib` · `Classification` · `Feature Engineering`
 
 ---
 
-## 💼 Project Highlights
+### 🔹 [Applied Time Series Analysis](https://github.com/NiatKahsay/Applied-Time-Series-Analysis--ADS-506-)
+Comprehensive forecasting project implementing ARIMA, SARIMA, and advanced statistical models on real-world datasets. Includes stationarity testing, autocorrelation analysis, and full model diagnostics.
 
-✅ **Classification Modeling** - Built and optimized models for binary and multi-class problems  
-✅ **Exploratory Data Analysis** - Uncovered insights through statistical visualization and hypothesis testing  
-✅ **Statistical Testing** - Applied A/B testing, t-tests, chi-square tests, and ANOVA  
-✅ **Machine Learning Workflows** - End-to-end pipelines from data preprocessing to model deployment  
-✅ **Real-World Applications** - Projects spanning crime prediction, time series forecasting, and business analytics
+`R` · `Python` · `statsmodels` · `Time Series Forecasting` · `Statistical Testing`
 
 ---
 
+### 🔹 [Data Engineering Pipeline](https://github.com/NiatKahsay/ADS-507-Project)
+Scalable ETL pipeline for processing large datasets with automated workflows for data ingestion, transformation, and warehousing.
 
-## 🤝 Let's Connect!
-
-I'm always interested in collaborating on data science projects or discussing opportunities in the field. Feel free to reach out!
-
-📧 **Email:** [niatttesfay@gmail.com](mailto:niatttesfay@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/niat-kahsay-8149a71aa](https://www.linkedin.com/in/niat-kahsay-8149a71aa/)  
-🎓 **University Email:** [nkahsay@sandiego.edu](mailto:nkahsay@sandiego.edu)
+`Python` · `SQL` · `Apache Airflow` · `ETL` · `Data Warehousing`
 
 ---
 
-## 💡 Fun Fact
+### 🔹 [Cloud ML Deployment](https://github.com/NiatKahsay/ads-508-team)
+Deployed production-ready machine learning models on cloud infrastructure with automated CI/CD pipelines, emphasizing scalability and MLOps best practices.
 
-When I'm not analyzing data, you can find me exploring San Francisco's coffee shops or hiking Bay Area trails! ☕🌲
+`AWS` · `GCP` · `Docker` · `Python` · `MLOps` · `CI/CD`
 
-<!--
-**NiatKahsay/NiatKahsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔹 [Deep Learning Classification](https://github.com/NiatKahsay/ADS-504--Group-Project)
+Implemented and compared CNN, RNN, and transfer learning architectures for complex classification tasks, with a focus on model optimization and performance tuning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`TensorFlow` · `Keras` · `Python` · `Neural Networks` · `Transfer Learning`
+
+---
+
+## 🎓 Education
+
+**University of San Diego** — M.S. in Data Science *(Expected May 2026)*
+
+*Relevant coursework: Probability & Statistics · Data Mining · Predictive Modeling · Machine Learning & Deep Learning · Time Series Analysis · Data Engineering · Cloud Computing · Applied Text Mining*
+
+
+---
+
+*Open to Data Science internships and full-time roles for Summer 2026 and beyond — feel free to reach out!*
