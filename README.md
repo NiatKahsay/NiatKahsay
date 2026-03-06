@@ -39,7 +39,7 @@ I build end-to-end machine learning solutions grounded in statistical rigor and 
 
 ## 📂 Featured Projects
 
-### 🔹 [SF Crime Prediction](https://github.com/NiatKahsay/SF_Crime_Prediction)
+### 🔹 [BNPL Risk Intelligence Dashboard](https://github.com/NiatKahsay/bnpl-risk-intelligence)
 End-to-end classification project analyzing San Francisco crime data. Built predictive models to forecast crime patterns and identify hotspots using feature engineering, ensemble methods, and thorough model evaluation.
 
 `Python` · `scikit-learn` · `pandas` · `Matplotlib` · `Classification` · `Feature Engineering`
@@ -67,7 +67,7 @@ Deployed production-ready machine learning models on cloud infrastructure with a
 
 ---
 
-### 🔹 [Deep Learning Classification](https://github.com/NiatKahsay/ADS-504--Group-Project)
+### 🔹 [Optimizing Heart Valve Replacements: Distributed Data Science Pipeline](https://github.com/NiatKahsay/ADS-504--Group-Project)
 Implemented and compared CNN, RNN, and transfer learning architectures for complex classification tasks, with a focus on model optimization and performance tuning.
 
 `TensorFlow` · `Keras` · `Python` · `Neural Networks` · `Transfer Learning`
