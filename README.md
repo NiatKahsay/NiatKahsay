@@ -4,7 +4,7 @@
 
 I build end-to-end machine learning solutions grounded in statistical rigor and real-world impact. My work spans predictive modeling, deep learning, time series forecasting, data engineering, and cloud-based ML deployment — always with a focus on turning messy data into clear, actionable insight.
 
-📍 San Francisco, CA &nbsp;|&nbsp; 📧 [nkahsay@sandiego.edu](mailto:nkahsay@sandiego.edu) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/niat-tesfay-8149a71aa/) &nbsp;|&nbsp; 💼 Seeking Data Science roles for 2026
+📍 San Francisco, CA &nbsp;|&nbsp; 📧 [nkahsay@sandiego.edu](mailto:nkahsay@sandiego.edu) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/niat-kahsay-8149a71aa/) &nbsp;|&nbsp; 💼 Seeking Data Science roles for 2026
 
 ---
 
@@ -87,11 +87,6 @@ Scalable ETL pipeline for processing large datasets with automated workflows for
 
 *Relevant coursework: Probability & Statistics · Data Mining · Predictive Modeling · Machine Learning & Deep Learning · Time Series Analysis · Data Engineering · Cloud Computing · Applied Text Mining*
 
----
-
-## 💡 Fun Fact
-
-When I'm not in the data, you'll find me hunting down San Francisco's best coffee shops or out on Bay Area trails. ☕🌲
 
 ---
 
