@@ -4,7 +4,7 @@
 
 I build end-to-end machine learning solutions grounded in statistical rigor and real-world impact. My work spans predictive modeling, deep learning, time series forecasting, data engineering, and cloud-based ML deployment — always with a focus on turning messy data into clear, actionable insight.
 
-📍 San Francisco, CA &nbsp;|&nbsp; 📧 [nkahsay@sandiego.edu](mailto:nkahsay@sandiego.edu) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/niat-kahsay-8149a71aa/) &nbsp;|&nbsp; 💼 Seeking Data Science roles for 2026
+📍 San Francisco, CA &nbsp;|&nbsp; 📧 [nkahsay@sandiego.edu](mailto:nkahsay@sandiego.edu) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/niat-tesfay-8149a71aa/) &nbsp;|&nbsp; 💼 Seeking Data Science roles for 2026
 
 ---
 
@@ -37,31 +37,47 @@ I build end-to-end machine learning solutions grounded in statistical rigor and 
 
 ---
 
-📂 Featured Projects
-🔹 BNPL Risk Intelligence
+## 📂 Featured Projects
+
+### 🔹 [BNPL Risk Intelligence](https://github.com/NiatKahsay/bnpl-risk-intelligence)
 Credit and financial risk modeling for Buy Now Pay Later products. Developed machine learning models to assess borrower risk, identify default likelihood, and support smarter lending decisions in the consumer finance space.
-Python · scikit-learn · pandas · Credit Risk · Classification · Financial ML
 
-🔹 SF Crime Prediction
+`Python` · `scikit-learn` · `pandas` · `Credit Risk` · `Classification` · `Financial ML`
+
+---
+
+### 🔹 [SF Crime Prediction](https://github.com/NiatKahsay/SF_Crime_Prediction)
 End-to-end classification project analyzing San Francisco crime data. Built predictive models to forecast crime patterns and identify hotspots using feature engineering, ensemble methods, and thorough model evaluation.
-Python · scikit-learn · pandas · Matplotlib · Classification · Feature Engineering
 
-🔹 Applied Time Series Analysis
+`Python` · `scikit-learn` · `pandas` · `Matplotlib` · `Classification` · `Feature Engineering`
+
+---
+
+### 🔹 [Applied Time Series Analysis](https://github.com/NiatKahsay/Applied-Time-Series-Analysis--ADS-506-)
 Comprehensive forecasting project implementing ARIMA, SARIMA, and advanced statistical models on real-world datasets. Includes stationarity testing, autocorrelation analysis, and full model diagnostics.
-R · Python · statsmodels · Time Series Forecasting · Statistical Testing
 
-🔹 Deep Learning Classification
+`R` · `Python` · `statsmodels` · `Time Series Forecasting` · `Statistical Testing`
+
+---
+
+### 🔹 [Deep Learning Classification](https://github.com/NiatKahsay/ADS-504--Group-Project)
 Implemented and compared CNN, RNN, and transfer learning architectures for complex classification tasks, with a focus on model optimization and performance tuning.
-TensorFlow · Keras · Python · Neural Networks · Transfer Learning
 
-🔹 Cloud ML Deployment
-Deployed production-ready machine learning models on cloud infrastructure with automated CI/CD pipelines, emphasizing scalability and MLOps best practices.
-AWS · GCP · Docker · Python · MLOps · CI/CD
-
-🔹 Data Engineering Pipeline
-Scalable ETL pipeline for processing large datasets with automated workflows for data ingestion, transformation, and warehousing.
-Python · SQL · Apache Airflow · ETL · Data Warehousing
 `TensorFlow` · `Keras` · `Python` · `Neural Networks` · `Transfer Learning`
+
+---
+
+### 🔹 [Cloud ML Deployment](https://github.com/NiatKahsay/ads-508-team)
+Deployed production-ready machine learning models on cloud infrastructure with automated CI/CD pipelines, emphasizing scalability and MLOps best practices.
+
+`AWS` · `GCP` · `Docker` · `Python` · `MLOps` · `CI/CD`
+
+---
+
+### 🔹 [Data Engineering Pipeline](https://github.com/NiatKahsay/ADS-507-Project)
+Scalable ETL pipeline for processing large datasets with automated workflows for data ingestion, transformation, and warehousing.
+
+`Python` · `SQL` · `Apache Airflow` · `ETL` · `Data Warehousing`
 
 ---
 
@@ -71,6 +87,11 @@ Python · SQL · Apache Airflow · ETL · Data Warehousing
 
 *Relevant coursework: Probability & Statistics · Data Mining · Predictive Modeling · Machine Learning & Deep Learning · Time Series Analysis · Data Engineering · Cloud Computing · Applied Text Mining*
 
+---
+
+## 💡 Fun Fact
+
+When I'm not in the data, you'll find me hunting down San Francisco's best coffee shops or out on Bay Area trails. ☕🌲
 
 ---
 
