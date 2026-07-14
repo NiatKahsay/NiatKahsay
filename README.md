@@ -1,6 +1,6 @@
 # Hi, I'm Niyat Kahsay 👋
 
-**Data Science M.S. Candidate · University of San Diego '26**
+**Data Science M.S. Graduate · University of San Diego '26**
 
 I build end-to-end machine learning solutions grounded in statistical rigor and real-world impact. My work spans predictive modeling, deep learning, time series forecasting, data engineering, and cloud-based ML deployment — always with a focus on turning messy data into clear, actionable insight.
 
